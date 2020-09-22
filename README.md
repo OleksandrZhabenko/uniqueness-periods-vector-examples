@@ -17,6 +17,12 @@ LinaKostenko -- http://poetyka.uazone.net/kostenko/
 
 WilliamShakespeare -- http://poetyka.uazone.net/shakespeare/ (the last one is translation of the original English versions into Ukrainian).
 
-The version of the uniqueness-periods-vector-examples used for them is 0.4.0.0
+The versions of the uniqueness-periods-vector-examples used for them are: 
+
+0.3.1.1;
+
+0.4.0.0;
+
+0.5.3.0;
 
 The processment was done by Oleksandr Zhabenko, the author of the packages from uniqueness-periods-vector series. 
